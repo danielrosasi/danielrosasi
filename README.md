@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando atualmente em [Esus Indicadores](https://portal.indicadoresesus.com.br/auth)
 
-- Estou procurando ajuda com [Clinica](https://clinica-git-master-danielrosadasilva.vercel.app/)- Estou procurando ajuda com [Perfil Social](https://perfil-git-master-danielrosadasilva.vercel.app/)- Todos os meus projetos estão disponíveis em [https://github.com/danielrosadasilva](https://github.com/danielrosadasilva)
+- Visite meu projeto clinica => [Clinica](https://clinica-git-master-danielrosadasilva.vercel.app/)- Ou Esse Projeto de Perfil com React=> [Perfil Social](https://perfil-git-master-danielrosadasilva.vercel.app/)- Todos os meus projetos estão disponíveis em [https://github.com/danielrosadasilva](https://github.com/danielrosadasilva)
 - Trabalhei em um Projeto: [Clinica](https://clinica-git-master-danielrosadasilva.vercel.app/)- E Um Projeto de Perfil: [Perfil Social](https://perfil-git-master-danielrosadasilva.vercel.app/)- Todos os meus projetos estão disponíveis em [https://github.com/danielrosadasilva](https://github.com/danielrosadasilva)
 
 
