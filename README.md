@@ -1,8 +1,7 @@
-<h1 align="center">Oi 👋 , sou Daniel Rosa</h1><h3 align="center">Sou um Analista e Desenvolvedor de Sistemas</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrosadasilva&label=Profile%20views&color=0e75b6&style=flat" alt="danielrosadasilva" /> </p>
+<h1 align="center">Oi 👋 , sou Daniel Rosa</h1><h3 align="center">Sou um Analista e Desenvolvedor de Sistemas</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrosasi&label=Profile%20views&color=0e75b6&style=flat" alt="danielrosasi" /> </p>
 
 - 🔭 Estou trabalhando atualmente em [Esus Indicadores](https://portal.indicadoresesus.com.br/auth)
-
-- Visite meu projeto clinica => [Clinica](https://clinica-git-master-danielrosadasilva.vercel.app/)- Ou Esse Projeto de Perfil com React=> [Perfil Social](https://perfil-git-master-danielrosadasilva.vercel.app/)- Todos os meus projetos estão disponíveis em [https://github.com/danielrosadasilva](https://github.com/danielrosadasilva)
+  
 - Trabalhei em um Projeto: [Clinica](https://clinica-git-master-danielrosadasilva.vercel.app/)- E Um Projeto de Perfil: [Perfil Social](https://perfil-git-master-danielrosadasilva.vercel.app/)- Todos os meus projetos estão disponíveis em [https://github.com/danielrosadasilva](https://github.com/danielrosadasilva)
 
 
